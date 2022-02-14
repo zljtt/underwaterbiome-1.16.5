@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "underwaterbiome:block/mangrove_log_side",
+    "end": "underwaterbiome:block/mangrove_log_end"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=1": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=2": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=3": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=4": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=5": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=6": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=7": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=8": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=9": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=10": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=11": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=12": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=13": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=14": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=15": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=16": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=17": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=18": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=19": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=20": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=21": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=22": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=23": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=24": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    },
+    "age=25": {
+      "model": "underwaterbiome:block/glowing_kelp_top"
+    }
+  }
+}

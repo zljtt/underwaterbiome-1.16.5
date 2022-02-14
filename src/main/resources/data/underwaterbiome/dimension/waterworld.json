@@ -1,0 +1,11 @@
+{
+  "type": "underwaterbiome:waterworld_type",
+  "generator": {
+    "biome_source": {
+      "large_biomes": false,
+      "type": "underwaterbiome:waterworld_layered"
+    },
+    "settings": "underwaterbiome:waterworld_noise_setting",
+    "type": "underwaterbiome:waterworld_noise"
+  }
+}

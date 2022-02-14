@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "underwaterbiome:block/azuril_sand_side",
+    "bottom": "underwaterbiome:block/sand",
+    "top": "underwaterbiome:block/azuril_sand"
+  }
+}

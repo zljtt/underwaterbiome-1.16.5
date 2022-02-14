@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "fruit=false": {
+      "model": "underwaterbiome:block/glowing_kelp"
+    },
+    "fruit=true": {
+      "model": "underwaterbiome:block/glowing_kelp_fruit"
+    }
+  }
+}

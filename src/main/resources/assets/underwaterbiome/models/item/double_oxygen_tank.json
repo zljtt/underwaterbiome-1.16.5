@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "underwaterbiome:item/double_oxygen_tank"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "underwaterbiome:block/water_torch"
+    },
+    "waterlogged=true": {
+      "model": "underwaterbiome:block/water_torch"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:sand"
+    },
+    "under_material": {
+      "Name": "minecraft:sand"
+    },
+    "underwater_material": {
+      "Name": "minecraft:sand"
+    }
+  },
+  "type": "underwaterbiome:mangrove"
+}
